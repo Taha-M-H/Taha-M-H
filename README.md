@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My Name is Taha, and I'm a CS & AI student at FCAI-CU
+
+- 🌱 I’m currently learning Data Analysis using (SQL & Python)
 <!--
 **Taha-M-H/Taha-M-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
