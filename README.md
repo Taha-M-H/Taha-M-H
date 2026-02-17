@@ -2,11 +2,12 @@
 
 My Name is Taha, and I'm an aspiring Data Analyst and Computer Science & AI student.
 
-
 - 🌱 I’m currently learning Data Analysis using SQL & Python
 - 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taha%20Mohammed%20-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/taha-mohammed-hussain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taha%20Mohammed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/taha-mohammed-hussain)
+[![Email](https://img.shields.io/badge/Email-taha.m.hussain.12%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taha.m.hussain.12@gmail.com)
+
 
 <!--
 **Taha-M-H/Taha-M-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
