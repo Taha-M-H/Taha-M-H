@@ -7,6 +7,7 @@ My Name is Taha, and I'm an aspiring Data Analyst and Computer Science & AI stud
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-mohammed-hussain)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taha.m.hussain.12@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201009602588)
 
 
 
