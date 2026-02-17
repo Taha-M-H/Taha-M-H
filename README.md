@@ -5,8 +5,8 @@ My Name is Taha, and I'm an aspiring Data Analyst and Computer Science & AI stud
 - 🌱 I’m currently learning Data Analysis using SQL & Python
 - 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Taha%20Mohammed-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/taha-mohammed-hussain)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taha.m.hussain.12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-mohammed-hussain)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taha.m.hussain.12@gmail.com)
 
 
 
