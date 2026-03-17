@@ -2,7 +2,7 @@
 
 My Name is Taha, and I'm an aspiring Data Analyst and Computer Science & AI student.
 
-- 🌱 I’m currently learning Data Analysis using SQL & Python
+- 🌱 I’m currently learning Data Analysis.
 - 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-mohammed-hussain)
@@ -10,6 +10,17 @@ My Name is Taha, and I'm an aspiring Data Analyst and Computer Science & AI stud
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201009602588)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logoColor=white)](https://taha-m-h.github.io/portfolio-/)
 
+ ### 🛠️ Toolkit
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🌐 Languages
+![English](https://img.shields.io/badge/English_(British)-012169?style=for-the-badge&logo=uk&logoColor=white)
+![Arabic](https://img.shields.io/badge/Arabic_(Egypt)-CE1126?style=for-the-badge&logo=egypt&logoColor=white)
 <!--
 **Taha-M-H/Taha-M-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
