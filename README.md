@@ -11,16 +11,16 @@ My Name is Taha, and I'm an aspiring Data Analyst and Computer Science & AI stud
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logoColor=white)](https://taha-m-h.github.io/portfolio-/)
 
 ### 🛠️ Toolkit
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="40"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="40"/>
 
 ### 🌐 Languages
-![English](https://img.shields.io/badge/English-012169?style=for-the-badge&logo=unitedkingdom&logoColor=white)
-![Arabic](https://img.shields.io/badge/Arabic-CE1126?style=for-the-badge&logo=egypt&logoColor=white)
+<img src="https://img.shields.io/badge/English-012169?style=flat-square&logo=unitedkingdom&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/Arabic-CE1126?style=flat-square&logo=egypt&logoColor=white" height="40"/>
 <!--
 **Taha-M-H/Taha-M-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
