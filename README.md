@@ -10,7 +10,7 @@ My Name is Taha, and I'm an aspiring Data Analyst and Computer Science & AI stud
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201009602588)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logoColor=white)](https://taha-m-h.github.io/portfolio-/)
 
- ### 🛠️ Toolkit
+### 🛠️ Toolkit
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -19,8 +19,8 @@ My Name is Taha, and I'm an aspiring Data Analyst and Computer Science & AI stud
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🌐 Languages
-![English](https://img.shields.io/badge/🇬🇧_English-012169?style=for-the-badge)
-![Arabic](https://img.shields.io/badge/🇪🇬_Arabic-CE1126?style=for-the-badge)
+![English](https://img.shields.io/badge/English-012169?style=for-the-badge&logo=unitedkingdom&logoColor=white)
+![Arabic](https://img.shields.io/badge/Arabic-CE1126?style=for-the-badge&logo=egypt&logoColor=white)
 <!--
 **Taha-M-H/Taha-M-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
