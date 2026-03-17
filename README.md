@@ -13,11 +13,11 @@ My Name is Taha, and I'm an aspiring Data Analyst and Computer Science & AI stud
 ## 🛠️ Toolkit
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iMyIgeT0iMTEiIHdpZHRoPSI0IiBoZWlnaHQ9IjEwIiByeD0iMC41IiBmaWxsPSJibGFjayIvPjxyZWN0IHg9IjkiIHk9IjciIHdpZHRoPSI0IiBoZWlnaHQ9IjE0IiByeD0iMC41IiBmaWxsPSJibGFjayIvPjxyZWN0IHg9IjE1IiB5PSIzIiB3aWR0aD0iNCIgaGVpZ2h0PSIxOCIgcng9IjAuNSIgZmlsbD0iYmxhY2siLz48L3N2Zz4=&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMS4wMyAyLjU5aDEuOTR2My44aDMuNzl2MS45M0gxMi45N3YzLjhoLTEuOTR2LTMuOEg3LjI0VjYuMzloMy43OVYyLjU5ek0zLjUgMTIuNDFoMS40NHYyLjgzaDIuODR2MS40Mkg0Ljk0djIuODNIMy41di0yLjgzSC42NnYtMS40MkgzLjV2LTIuODN6bTE1LjA2IDBoMS40NHYyLjgzSDIyLjg0djEuNDJIMjB2Mi44M2gtMS40NHYtMi44M2gtMi44NHYtMS40MmgyLjg0di0yLjgzek0xMS4wMyAxNy42MmgxLjk0djMuOGgtMS45NHYtMy44ek0xMS4wMy42NmgxLjk0djEuOTNoLTEuOTR6TTMuNSA3LjgyVjUuODloMS40NHYxLjkzSDMuNXptMTUuMDYgMFY1Ljg5SDIwdjEuOTNoLTEuNDR6Ii8+PC9zdmc+&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## 🌐 Languages
 
