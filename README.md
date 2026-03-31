@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there 
 
 My name is Taha, and I'm an aspiring Data Analyst and Computer Science & AI student.
 
