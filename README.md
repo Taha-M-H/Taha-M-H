@@ -1,6 +1,7 @@
 ## 👋 Hi there 
 
 My name is Taha, and I'm an aspiring Data Analyst and Computer Science & AI student.
+-Exploring the intersection of Data Analytics and Predictive Modeling.
 
 ## 📫 How to reach me:
 
