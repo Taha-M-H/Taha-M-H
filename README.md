@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is Taha. and I'm an aspiring Data Analyst and Computer Science & AI student.
+My name is Taha, and I'm an aspiring Data Analyst and Computer Science & AI student.
 
 - 📫 How to reach me:
 
