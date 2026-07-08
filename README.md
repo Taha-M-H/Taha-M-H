@@ -2,9 +2,8 @@
   <rect width="100" height="100" fill="#3d00ae" rx="3" />
 </svg>
 
-# 👋 Hi therelt="purple bar" />
-
 # 👋 Hi there
+
 My name is Taha, and I'm an aspiring Data Analyst and Computer Science & AI student.  
 Exploring the intersection of Data Analytics and Predictive Modeling.
 
