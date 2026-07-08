@@ -1,5 +1,6 @@
-## 👋 Hi there 
+<img src="https://img.shields.io/badge/-%20-3d00ae?style=flat&width=1000" width="100%" height="8px" alt="purple bar" />
 
+# 👋 Hi there
 My name is Taha, and I'm an aspiring Data Analyst and Computer Science & AI student.  
 Exploring the intersection of Data Analytics and Predictive Modeling.
 
