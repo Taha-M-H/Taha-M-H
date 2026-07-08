@@ -1,6 +1,4 @@
-<svg width="100%" height="15" viewBox="0 0 100 100" preserveAspectRatio="none">
-  <rect width="100" height="100" fill="#3d00ae" rx="3" />
-</svg>
+<img src="https://img.shields.io/badge/-%20-3d00ae?style=flat&width=1000" width="100%" height="8px" alt="purple bar" />
 
 # 👋 Hi there
 
@@ -25,6 +23,11 @@ Exploring the intersection of Data Analytics and Predictive Modeling.
 
 ![English](https://img.shields.io/badge/English-012169?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCAzMCI+PHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwIiBmaWxsPSIjMDEyMTY5Ii8+PHBhdGggZD0iTTAsMCBMNjAsMzAgTTYwLDAgTDAsMzAiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSI2Ii8+PHBhdGggZD0iTTAsMCBMNjAsMzAgTTYwLDAgTDAsMzAiIHN0cm9rZT0iI0M4MTAyRSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PHBhdGggZD0iTTMwLDAgVjMwIE0wLDE1IEg2MCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjEwIi8+PHBhdGggZD0iTTMwLDAgVjMwIE0wLDE1IEg2MCIgc3Ryb2tlPSIjQzgxMDJFIiBzdHJva2Utd2lkdGg9IjYiLz48L3N2Zz4=&logoColor=white)
 ![Arabic](https://img.shields.io/badge/Arabic-CE1126?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjAwIj48cmVjdCB3aWR0aD0iOTAwIiBoZWlnaHQ9IjIwMCIgZmlsbD0iI0NFMTEyNiIvPjxyZWN0IHk9IjIwMCIgd2lkdGg9IjkwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9IiNGRkZGRkYiLz48cmVjdCB5PSI0MDAiIHdpZHRoPSI5MDAiIGhlaWdodD0iMjAwIiBmaWxsPSIjMDAwMDAwIi8+PHJlY3Qgd2lkdGg9IjkwMCIgaGVpZ2h0PSI2MDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzg4OCIgc3Ryb2tlLXdpZHRoPSIyMCIvPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQ1MCwzMDApIj48cGF0aCBkPSJNMCwtODAgQy0yMCwtODAgLTYwLC02MCAtNjAsLTIwIEMtNjAsNDAgLTIwLDgwIDAsOTAgQzIwLDgwIDYwLDQwIDYwLC0yMCBDNjAsLTYwIDIwLC04MCAwLC04MCBaIiBmaWxsPSJub25lIiBzdHJva2U9IiNDMDkzMDAiIHN0cm9rZS13aWR0aD0iMTgiLz48cmVjdCB4PSItMTAiIHk9Ii05NSIgd2lkdGg9IjIwIiBoZWlnaHQ9IjMwIiBmaWxsPSIjQzA5MzAwIi8+PHJlY3QgeD0iLTcwIiB5PSItMTAiIHdpZHRoPSIyNSIgaGVpZ2h0PSIxNSIgZmlsbD0iI0MwOTMwMCIvPjxyZWN0IHg9IjQ1IiB5PSItMTAiIHdpZHRoPSIyNSIgaGVpZ2h0PSIxNSIgZmlsbD0iI0MwOTMwMCIvPjxyZWN0IHg9Ii0zMCIgeT0iODUiIHdpZHRoPSI2MCIgaGVpZ2h0PSIxNSIgZmlsbD0iI0MwOTMwMCIvPjwvZz48L3N2Zz4=&logoColor=white)
+
+
+
+<img src="https://img.shields.io/badge/-%20-3d00ae?style=flat&width=1000" width="100%" height="8px" alt="purple bar" />
+
 <!--
 **Taha-M-H/Taha-M-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
