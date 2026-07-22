@@ -1,9 +1,10 @@
 <img src="https://img.shields.io/badge/-%20-3d00ae?style=flat&width=1000" width="100%" height="8px" alt="purple bar" />
 
-# 👋 Hi there
+👋 Hi there, I'm Taha
 
-My name is Taha, and I'm an aspiring Data Analyst and Computer Science & AI student.  
-Exploring the intersection of Data Analytics and Predictive Modeling.
+Computer Science & AI student specializing in Data Analysis & Machine Learning Engineering.
+
+Focused on extracting actionable insights through data analysis and building robust predictive models using ML.
 
 ## 📫 How to reach me:
 
