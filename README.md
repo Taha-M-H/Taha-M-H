@@ -32,11 +32,34 @@ Focused on extracting actionable insights through data analysis and building rob
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9333ea&height=120&section=footer" alt="footer"/>
 
+
+
+
+
+
+
+
 <!--
 **Taha-M-H/Taha-M-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 ![My Skills](https://skillicons.dev/icons?i=py,cpp,mysql,pandas)
+
+
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikitlearn.svg" width="40" height="40" title="Scikit-Learn" alt="Scikit-Learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" title="NumPy" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/microsoftexcel.svg" width="40" height="40" title="Excel" alt="Excel"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tableau.svg" width="40" height="40" title="Tableau" alt="Tableau"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powerbi.svg" width="40" height="40" title="Power BI" alt="Power BI"/>
+  <span style="font-size: 30px;" title="English">🇬🇧</span>
+  <span style="font-size: 30px;" title="Arabic (Egyptian)">🇪🇬</span>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
