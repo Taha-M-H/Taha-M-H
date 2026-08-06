@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/badge/-%20-3d00ae?style=flat&width=1000" width="100%" height="8px" alt="purple bar" />
-
+<img src="waving-hand-banner.svg" alt="Hi there, I'm Taha" />
 👋 Hi there, I'm Taha
 
 Computer Science & AI student specializing in Data Analysis & Machine Learning Engineering.
