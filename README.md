@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9333ea&height=120&section=header" alt="header"/> 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=TIMES&size=35&duration=3000&pause=700&color=9333EA&width=435&lines=++HI%2C+There++(ʘ‿ʘ)╯;++I'm+Taha)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=TIMES&size=35&duration=3000&pause=700&color=9333EA&width=435&lines=+++HI%2C+There++(ʘ‿ʘ)╯;++I'm+Taha)
 
 
 
