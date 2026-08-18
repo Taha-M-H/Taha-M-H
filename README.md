@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9333ea&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=302db8&height=120&section=header" alt="header"/> 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=TIMES&size=35&duration=3000&pause=700&color=9333EA&width=435&lines=+++HI%2C+There++(ʘ‿ʘ)╯;++I'm+Taha)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=TIMES&size=35&duration=3000&pause=700&color=302db8&width=435&lines=+++HI%2C+There++(ʘ‿ʘ)╯;++I'm+Taha)
 
 
 
@@ -40,7 +40,7 @@ Focused on extracting actionable insights through data analysis and building rob
 <a href="https://www.linkedin.com/in/taha-mohammed-hussain"><img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" /></a>
 <a href="mailto:taha.m.hussain.12@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9333ea&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=302db8&height=120&section=footer" alt="footer"/>
 
 
 
