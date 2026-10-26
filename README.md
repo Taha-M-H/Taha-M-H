@@ -10,18 +10,15 @@ Focused on extracting actionable insights through data analysis and building rob
 &nbsp;
 ## 🛠️ Tech stack
 
-
 <p align="left">
-  <img src="https://api.iconify.design/logos:python.svg" width="60" height="60" title="Python" />
-  <img src="https://api.iconify.design/logos:mysql-icon.svg" width="60" height="60" title="MySQL" />
-  <img src="https://api.iconify.design/logos:c-plusplus.svg" width="60" height="60" title="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" title="Scikit-Learn" alt="Scikit-Learn" />
-  <img src="https://api.iconify.design/logos:pandas-icon.svg" width="60" height="60" title="Pandas" />
-  <img src="https://api.iconify.design/logos:numpy.svg" width="60" height="60" title="NumPy" />
-  <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" width="60" height="60" title="Excel" />
-  <img src="https://api.iconify.design/logos:microsoft-power-bi.svg" width="60" height="60" title="Power BI" />
-</p>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" alt="Scikit-Learn" title="Scikit-Learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="60" height="60" alt="Excel" title="Excel" />
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="60" height="60" alt="Power BI" title="Power BI" />
 
 
 &nbsp;
