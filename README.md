@@ -34,7 +34,7 @@ Focused on extracting actionable insights through data analysis and building rob
 
 ## 📫 How to reach me:
 </a>
-<a href="https://www.linkedin.com/in/taha-mohammed-hussain"><img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/taha-mohammed-hussein/"><img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" /></a>
 <a href="mailto:taha.m.hussain.12@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=302db8&height=120&section=footer" alt="footer"/>
