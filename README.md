@@ -17,10 +17,6 @@ Focused on extracting actionable insights through data analysis and building rob
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" alt="Scikit-Learn" title="Scikit-Learn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas" title="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" height="60" alt="NumPy" title="NumPy" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="60" height="60" alt="Excel" title="Excel" />
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="60" height="60" alt="Power BI" title="Power BI" />
-
-
 &nbsp;
 
 ## 🌐 Languages
